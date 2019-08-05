@@ -110,7 +110,7 @@
     "loader-utils": "^1.1.0",
     "lodash": "^4.17.4",
     "markdown-loader": "^4.0.0",
-    "markdownlint": "^0.11.0",
+    "markdownlint": "^0.16.0",
     "markdownlint-cli": "^0.13.0",
     "markdownlint-rule-emphasis-style": "^1.0.0",
     "marked": "^0.5.2",
